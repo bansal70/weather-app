@@ -48,8 +48,8 @@ The app uses a weather API key to fetch weather data. You need to set the API ke
 ### 4. Build and Run the App
 Once the environment variable is set, build and run the app in Android Studio. The app should now be able to fetch and display weather data.
 
-### 5. Additional Configuration (Optional)
-If you wish to customize the app's behavior, you can modify the settings in `build.gradle.kts` or adjust the UI components in the corresponding Composables.
+### 5. Download APK:
+You can directly download and test the APK here: https://drive.google.com/file/d/1gIi6wBKHxLBn8kyyrHKRGxZdNyM_0JZ5/view?usp=sharing
 
 ## Troubleshooting
 
