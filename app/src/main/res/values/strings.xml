@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">WeatherApp</string>
+  <string name="empty_results">No results found</string>
+  <string name="error_unknown">Something went wrong! Please try again</string>
+  <string name="error_internet_connection">Please check your internet connect and try again!</string>
+  <string name="title_no_city">No City Selected</string>
+  <string name="text_search_city">Please Search For A City</string>
+  <string name="search_location">Search Location</string>
+  <string name="search_icon">Search Icon</string>
+  <string name="temperature">Temperature</string>
+  <string name="weather_image">Weather Image</string>
+  <string name="humidity">Humidity</string>
+  <string name="uv">UV</string>
+  <string name="feels_like">Feels Like</string>
+  <string name="location_icon">Location Icon</string>
+</resources>
